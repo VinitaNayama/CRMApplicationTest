@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testSuite.LoginTest",
+    "children" : [ {
+      "name" : "loginMethodTest",
+      "uid" : "c1759ffff7ff5e36",
+      "parentUid" : "1ca722a1cbfe8f6ada00c15aa7f124e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587648317615,
+        "stop" : 1587648336637,
+        "duration" : 19022
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testSuite.LoginTest"
+  } ]
+}

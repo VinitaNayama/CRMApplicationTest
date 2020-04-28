@@ -1,0 +1,2 @@
+"Status","Name","Duration in ms","Description"
+"passed","testSuite.LoginTest.loginMethodTest","19022","Test case description: Verify login with diffrent scenarios and login page webelements"

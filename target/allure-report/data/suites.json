@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default suite",
+    "children" : [ {
+      "name" : "Default test",
+      "children" : [ {
+        "name" : "testSuite.LoginTest",
+        "children" : [ {
+          "name" : "Verifying login page methods",
+          "uid" : "c1759ffff7ff5e36",
+          "parentUid" : "062fb3885b181f04d664a98a9ee72568",
+          "status" : "passed",
+          "time" : {
+            "start" : 1587648317615,
+            "stop" : 1587648336637,
+            "duration" : 19022
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "062fb3885b181f04d664a98a9ee72568"
+      } ],
+      "uid" : "848117670d75f6868e681771989ad50e"
+    } ],
+    "uid" : "2c8837b97293ea01a164a5cd7048ad56"
+  } ]
+}

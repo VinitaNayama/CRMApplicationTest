@@ -1,0 +1,6 @@
+pages\AddBoxesPage.class
+pages\LoginPage.class
+pages\ContactsPage.class
+browser\Browser.class
+pages\CompaniesPage.class
+baseClass\Base.class

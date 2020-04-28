@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-A3HVBU0",
+    "children" : [ {
+      "name" : "9668@DESKTOP-A3HVBU0.main(1)",
+      "children" : [ {
+        "name" : "Verifying login page methods",
+        "uid" : "c1759ffff7ff5e36",
+        "parentUid" : "b88fb2f66ba199f37541b62fff767552",
+        "status" : "passed",
+        "time" : {
+          "start" : 1587648317615,
+          "stop" : 1587648336637,
+          "duration" : 19022
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b88fb2f66ba199f37541b62fff767552"
+    } ],
+    "uid" : "7e2e216a5f0bae72e685d88d2df005c5"
+  } ]
+}

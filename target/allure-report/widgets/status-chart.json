@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c1759ffff7ff5e36",
+  "name" : "Verifying login page methods",
+  "time" : {
+    "start" : 1587648317615,
+    "stop" : 1587648336637,
+    "duration" : 19022
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

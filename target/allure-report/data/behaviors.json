@@ -1,0 +1,21 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Story Name : To check login method",
+    "children" : [ {
+      "name" : "Verifying login page methods",
+      "uid" : "c1759ffff7ff5e36",
+      "parentUid" : "f697002a0cb13518030d76433c3e8703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587648317615,
+        "stop" : 1587648336637,
+        "duration" : 19022
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f697002a0cb13518030d76433c3e8703"
+  } ]
+}

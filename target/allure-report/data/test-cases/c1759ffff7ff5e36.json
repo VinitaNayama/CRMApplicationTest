@@ -1,0 +1,252 @@
+{
+  "uid" : "c1759ffff7ff5e36",
+  "name" : "Verifying login page methods",
+  "fullName" : "testSuite.LoginTest.loginMethodTest",
+  "historyId" : "de613766476935c588744924d9279fcf",
+  "time" : {
+    "start" : 1587648317615,
+    "stop" : 1587648336637,
+    "duration" : 19022
+  },
+  "description" : "Test case description: Verify login with diffrent scenarios and login page webelements",
+  "descriptionHtml" : "<p>Test case description: Verify login with diffrent scenarios and login page webelements</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeMethod",
+    "time" : {
+      "start" : 1587648298190,
+      "stop" : 1587648316847,
+      "duration" : 18657
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Launch browser",
+      "time" : {
+        "start" : 1587648298262,
+        "stop" : 1587648316843,
+        "duration" : 18581
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test case description: Verify login with diffrent scenarios and login page webelements",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify login page title step...",
+      "time" : {
+        "start" : 1587648317851,
+        "stop" : 1587648317951,
+        "duration" : 100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verify logo on login page step...",
+      "time" : {
+        "start" : 1587648317951,
+        "stop" : 1587648318295,
+        "duration" : 344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verify Signup link is step...",
+      "time" : {
+        "start" : 1587648318295,
+        "stop" : 1587648318443,
+        "duration" : 148
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verify login with blank user details: username: and password: step...",
+      "time" : {
+        "start" : 1587648318443,
+        "stop" : 1587648324895,
+        "duration" : 6452
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : ""
+      }, {
+        "name" : "pass",
+        "value" : ""
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Verify login with correct username:batchautomation and incorrect password : step..",
+      "time" : {
+        "start" : 1587648324895,
+        "stop" : 1587648328318,
+        "duration" : 3423
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "username",
+        "value" : "batchautomation"
+      }, {
+        "name" : "pass",
+        "value" : ""
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Login with username: batchautomation and password: test@12345 step...",
+      "time" : {
+        "start" : 1587648328318,
+        "stop" : 1587648336629,
+        "duration" : 8311
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "userName",
+        "value" : "batchautomation"
+      }, {
+        "name" : "pass",
+        "value" : "test@12345"
+      } ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1587648336657,
+      "stop" : 1587648338078,
+      "duration" : 1421
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Close browser",
+      "time" : {
+        "start" : 1587648336657,
+        "stop" : 1587648338078,
+        "duration" : 1421
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testSuite.LoginTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testSuite.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginMethodTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testSuite.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-A3HVBU0"
+  }, {
+    "name" : "thread",
+    "value" : "9668@DESKTOP-A3HVBU0.main(1)"
+  }, {
+    "name" : "story",
+    "value" : "Story Name : To check login method"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "d587e42e6098e73b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1587647833683,
+        "stop" : 1587647851923,
+        "duration" : 18240
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1759ffff7ff5e36.json",
+  "parameterValues" : [ ]
+}
